@@ -1,4 +1,4 @@
-# Nashville Software School: Front-End Exercises
+# Nashville Software School: Front-End Exercise
 
 ## Temperature converter
 
